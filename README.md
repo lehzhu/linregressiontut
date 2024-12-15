@@ -1,1 +1,1 @@
-#Linear Regression Tutorial for Western AI Workshop
+# Linear Regression Tutorial for Western AI Workshop
